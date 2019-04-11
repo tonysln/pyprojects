@@ -10,5 +10,8 @@ Finds the probability that 2 people out of X in a room will share the same birth
 ### binary_practice
 A small tool to practice converting base-10 numbers to base-2.
 
+### dlib_face_landmarks
+A face feature detector using dlib, opencv and numpy.
+
 ### webcam_opencv
 A face detector using the OpenCV library and Haar Cascades.
