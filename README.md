@@ -8,7 +8,7 @@ NASA Astronomy Picture of the Day downloader.
 Finds the probability that 2 people out of X in a room will share the same birthday.
 
 ### binary_practice
-A small tool to practice converting base-10 numbers to base-2.
+A small tool to practice converting base-10 numbers to base-2 and vice versa.
 
 ### dlib_face_landmarks
 A face feature detector using dlib, opencv and numpy.
